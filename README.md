@@ -1,2 +1,1 @@
-# Aerodinamica
-Repositório de arquivos da Aerodinâmica
+Octave software for loading OpenRocket simulations and performing many statistical analysis on the provided data, as well as create graphs. Allows for plotting the trajectories on a 3D map in Octave or exporting .kml files that can be used on GoogleEarth and plot the trajectories on a 3D map.
